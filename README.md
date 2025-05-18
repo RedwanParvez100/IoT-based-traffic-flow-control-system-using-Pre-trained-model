@@ -9,3 +9,10 @@ This project uses IoT technology and pre-trained machine learning models to buil
 - Uses pre-trained ML models with OpenCV
 - Real-time system activation with Raspberry Pi
 - Helps reduce traffic congestion
+
+## Components Used
+
+- Raspberry Pi 4 Model B  
+- Tower Pro MG90S Micro Servo  
+- OLED Display  
+- Male to Female Jumper Wires
